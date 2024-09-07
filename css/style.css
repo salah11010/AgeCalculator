@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main {
+    width: 600px;
+    height: 650px;
+    background-color: #3498db;
+    border-radius: 0 0 50px 0;
+  }
+  
+.saisir{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: black solid;
+    font-size: 60px;
+}
+span{
+    color: pink;
+}
